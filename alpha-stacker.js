@@ -65,8 +65,8 @@ function stackAndSpace(array) {
      //If the current value of the counter variable can be evenly divided by 3 
      	if ((i + 1) % 3 === 0) {
 
-     //just add a space!	
-     	    console.log(spaceStack += " ");
+     //just add a space!	  	
+     	  console.log(spaceStack += " ");
      	}
      }
 };
